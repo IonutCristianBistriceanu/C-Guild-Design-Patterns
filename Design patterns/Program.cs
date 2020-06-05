@@ -1,14 +1,22 @@
-﻿using Design_patterns.AbstractFactory;
+﻿using System;
+using Design_patterns.Prototype;
 
 namespace Design_patterns
 {
     class Program
     {
+      
+
+
         static void Main(string[] args)
         {
-            var hotDrinksMachine = new HotDrinksMachine();
-            hotDrinksMachine.MakeDrink(HotDrinksMachine.AvailableDrink.Tea, 100);
-            hotDrinksMachine.MakeDrink(HotDrinksMachine.AvailableDrink.Coffee, 200);
+            var john = new Person("John", new Address("Victoriei", 123));
+
+            var jane = john.DeepCopy();
+            jane.Name = "Jane";
+
+            Console.WriteLine(john);
+            Console.WriteLine(jane);
         }
     }
 }
