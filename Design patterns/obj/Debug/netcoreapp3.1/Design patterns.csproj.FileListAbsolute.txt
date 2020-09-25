@@ -9,3 +9,16 @@ C:\Users\ext_cristianbis\RiderProjects\Design patterns\Design patterns\obj\Debug
 C:\Users\ext_cristianbis\RiderProjects\Design patterns\Design patterns\obj\Debug\netcoreapp3.1\Design patterns.AssemblyInfo.cs
 C:\Users\ext_cristianbis\RiderProjects\Design patterns\Design patterns\obj\Debug\netcoreapp3.1\Design patterns.dll
 C:\Users\ext_cristianbis\RiderProjects\Design patterns\Design patterns\obj\Debug\netcoreapp3.1\Design patterns.pdb
+C:\Projects\cSharpGuild\C-Guild-Design-Patterns\Design patterns\bin\Debug\netcoreapp3.1\Design patterns.exe
+C:\Projects\cSharpGuild\C-Guild-Design-Patterns\Design patterns\bin\Debug\netcoreapp3.1\Design patterns.deps.json
+C:\Projects\cSharpGuild\C-Guild-Design-Patterns\Design patterns\bin\Debug\netcoreapp3.1\Design patterns.runtimeconfig.json
+C:\Projects\cSharpGuild\C-Guild-Design-Patterns\Design patterns\bin\Debug\netcoreapp3.1\Design patterns.runtimeconfig.dev.json
+C:\Projects\cSharpGuild\C-Guild-Design-Patterns\Design patterns\bin\Debug\netcoreapp3.1\Design patterns.dll
+C:\Projects\cSharpGuild\C-Guild-Design-Patterns\Design patterns\bin\Debug\netcoreapp3.1\Design patterns.pdb
+C:\Projects\cSharpGuild\C-Guild-Design-Patterns\Design patterns\obj\Debug\netcoreapp3.1\Design patterns.csprojAssemblyReference.cache
+C:\Projects\cSharpGuild\C-Guild-Design-Patterns\Design patterns\obj\Debug\netcoreapp3.1\Design patterns.AssemblyInfoInputs.cache
+C:\Projects\cSharpGuild\C-Guild-Design-Patterns\Design patterns\obj\Debug\netcoreapp3.1\Design patterns.AssemblyInfo.cs
+C:\Projects\cSharpGuild\C-Guild-Design-Patterns\Design patterns\obj\Debug\netcoreapp3.1\Design patterns.csproj.CoreCompileInputs.cache
+C:\Projects\cSharpGuild\C-Guild-Design-Patterns\Design patterns\obj\Debug\netcoreapp3.1\Design patterns.dll
+C:\Projects\cSharpGuild\C-Guild-Design-Patterns\Design patterns\obj\Debug\netcoreapp3.1\Design patterns.pdb
+C:\Projects\cSharpGuild\C-Guild-Design-Patterns\Design patterns\obj\Debug\netcoreapp3.1\Design patterns.genruntimeconfig.cache
