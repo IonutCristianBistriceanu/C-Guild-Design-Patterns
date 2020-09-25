@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\ext_cristianbis\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\ext_cristianbis\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Design patterns.-109624034.00" t="ExcludeRecursive" />
-    <e p="C:\Users\ext_cristianbis\RiderProjects\Design patterns" t="IncludeFlat">
+    <e p="C:\C# Guild\C-Guild-Design-Patterns" t="IncludeFlat">
       <e p="Design patterns" t="IncludeRecursive">
         <e p="AbstractFactory" t="Include">
           <e p="AbstractFactory.cs" t="Include" />
@@ -25,9 +23,20 @@
           </e>
         </e>
         <e p="Program.cs" t="Include" />
+        <e p="Prototype" t="Include">
+          <e p="Prototype.cs" t="Include" />
+        </e>
+        <e p="State" t="Include">
+          <e p="GangOfFourState.cs" t="Include" />
+          <e p="HandMadeStateMachine.cs" t="Include" />
+          <e p="SwitchStateMachine.cs" t="Include" />
+        </e>
       </e>
       <e p="Design patterns.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
     </e>
+    <e p="C:\Users\ext_cristianbis\AppData\local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ext_cristianbis\AppData\local\JetBrains\Rider2020.2\resharper-host\local\Transient\Rider\v202\SolutionCaches\_Design patterns.991227623.00" t="ExcludeRecursive" />
+    <e p="C:\Users\ext_cristianbis\AppData\Roaming\JetBrains\Rider2020.2\scratches" t="IncludeRecursive" />
   </component>
 </project>

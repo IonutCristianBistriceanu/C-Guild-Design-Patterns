@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\ext_cristianbis\\RiderProjects\\Design patterns\\Design patterns\\Design patterns.csproj",
+    "projectUniqueName": "C:\\C# Guild\\C-Guild-Design-Patterns\\Design patterns\\Design patterns.csproj",
     "projectName": "Design patterns",
-    "projectPath": "C:\\Users\\ext_cristianbis\\RiderProjects\\Design patterns\\Design patterns\\Design patterns.csproj",
-    "outputPath": "C:\\Users\\ext_cristianbis\\RiderProjects\\Design patterns\\Design patterns\\obj\\",
+    "projectPath": "C:\\C# Guild\\C-Guild-Design-Patterns\\Design patterns\\Design patterns.csproj",
+    "outputPath": "C:\\C# Guild\\C-Guild-Design-Patterns\\Design patterns\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
